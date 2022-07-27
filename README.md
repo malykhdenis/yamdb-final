@@ -1,3 +1,5 @@
+![example workflow](https://github.com/malykhdenis/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+
 # YaMDb
 ## Описание
 
